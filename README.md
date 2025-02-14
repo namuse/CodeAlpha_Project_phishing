@@ -1,6 +1,9 @@
 PHISHING ATTACKS
+
 Recognizing and Avoiding Phishing Emails, Websites and Social engineering tactics.
+
 Name : Sally Mutoko Namuseyi
+
 Date : 14/02/2025
 
 Introduction to Phishing
